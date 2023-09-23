@@ -13,7 +13,7 @@ Welcome to the Realtime Data Processing Pipeline project, a comprehensive guide 
 
 ## Architecture Overview
 
-![System Architecture](https://example.com/path/to/your/architecture_diagram.png)
+![System Architecture](https://github.com/krishna7356/Realtime-Data-Processing-Pipelin/blob/main/Architecture-Diagram.jpeg)
 
 The project encompasses the following components:
 
